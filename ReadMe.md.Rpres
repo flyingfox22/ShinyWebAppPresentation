@@ -59,7 +59,7 @@ incremental: true
 - Generate pie chart of housing loan principal versus interest amounts.
 - Generate principal, interest and balance loan repayment chart, over loan period.
 - Generate principal, interest and balance loan repayment table, by year.
-- You can access the Shiny App at [here](https://leewaisiong.shinyapps.io/ShinyWebApp/)
-- You can access the Shiny GitHub Code at [here](https://github.com/flyingfox22/ShinyWebApp)
-- You can access the Presentation Code at [here](https://github.com/flyingfox22/ShinyWebAppPresentation) and [here](https://github.com/flyingfox22/ShinyWebAppPresentation)
+- You can access the Shiny App at [Here](https://leewaisiong.shinyapps.io/ShinyWebApp/)
+- You can access the Shiny Code at [GitHub](https://github.com/flyingfox22/ShinyWebApp)
+- You can access the Presentation Code at [GitHub](https://github.com/flyingfox22/ShinyWebAppPresentation) and [Rpubs](http://rpubs.com/flyingfox22/MalaysiaHomeLoanCalculatorApp)
 
