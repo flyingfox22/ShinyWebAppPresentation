@@ -14,7 +14,7 @@ incremental: true
 type: prompt
 
 Malaysia home loan calculator to estimate your monthly house loan repayments.
-In order to know your monthly house loan repayments, you must provide the infomations below:
+In order to know your monthly house loan repayments, you must provide the informations below:
 
 - Property price in Malaysian Ringgit
 - Down payment amount in Malaysian Ringgit
@@ -57,7 +57,7 @@ round(payment,2)
 [1] 2060.52
 ```
 
-Malaysia Home Loan Calculator And Payment Schedule Simulation App
+Why you should use Malaysia Home Loan Calculator And Payment Schedule Simulation App?
 ========================================================
 incremental: true
 - Estimate monthly home loan repayment amount.
